@@ -1,0 +1,10 @@
+apples
+bananas
+pineapples
+
+peaches
+pluots
+strawberries
+
+cherries
+cranberries
